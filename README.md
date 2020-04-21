@@ -52,4 +52,4 @@ git remote -v //mostra o url do repositório
 git push origin master // sobe os arquivos pro git
 git pull origin master // pega o repositorio atualizado do git
 
-git clone url nome(nome do repositorio opcional) // clona um repositorio do gitc
+git clone url nome(nome do repositorio opcional) // clona um repositorio do git
